@@ -1,0 +1,46 @@
+{
+  "techniques": [
+    {
+      "name": "Divide and Conquer",
+      "id": 1,
+      "description": "",
+      "image_url": "https://i.ibb.co/fpzjBpG/DandC.png",
+      "data": "A divide-and-conquer algorithm works by recursively breaking down a problem into two or more sub-problems of the same or related type, until these become simple enough to be solved directly. The solutions to the sub-problems are then combined to give a solution to the original problem."
+    },
+    {
+      "name": "Greedy Method",
+      "id": 2,
+      "description": "",
+      "image_url": "https://i.ibb.co/9WzcBjK/greedy.png",
+      "data": "In greedy we do ndskjcbxzkjcbksx"
+    },
+    {
+      "name": "Dyanamic Programming",
+      "id": 3,
+      "description": "",
+      "image_url": "https://i.ibb.co/rFMZCVN/dynamic.jpg",
+      "data": "In dynamic we do jsabjkbxkzj "
+    },
+    {
+      "name": "Branch and Bound",
+      "id": 4,
+      "description": "",
+      "image_url": "https://i.ibb.co/BfWK9LZ/branch-Bound.jpg",
+      "data": "In branch we dsadjpoa sjdasp"
+    },
+    {
+      "name": "Randomized Algorithms",
+      "id": 5,
+      "description": "",
+      "image_url": "https://i.ibb.co/swXGrzt/random.gif",
+      "data": "in Random we do dbsjavdhab "
+    },
+    {
+      "name": "Backtracking Algorithms",
+      "id": 6,
+      "description": "",
+      "image_url": "https://i.ibb.co/P1kxmtQ/backtracking.png",
+      "data": "in BAcktracing we do bashdb jasbd"
+    }
+  ]
+}
